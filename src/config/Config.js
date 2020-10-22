@@ -1,3 +1,6 @@
-export default const Config = {
+const Config = {
     DEV: true
 };
+
+
+export default Config;
